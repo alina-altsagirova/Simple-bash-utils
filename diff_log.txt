@@ -1,0 +1,31 @@
+--- orig_log.txt	2026-03-24 11:00:13.974957332 +0300
++++ s21_log.txt	2026-03-24 11:00:13.970957225 +0300
+@@ -1,20 +1,20 @@
+ ./bash_test/grep_test.txt:o
+ ./bash_test/grep_test.txt:o
++o
+ ./bash_test/grep_test.txt:o
+ ./bash_test/grep_test.txt:o
++o
++o
+ ./bash_test/grep_test.txt:o
+ ./bash_test/grep_test.txt:o
++o
+ ./bash_test/grep_test.txt:o
+ ./bash_test/grep_test.txt:o
++o
+ ./bash_test/grep_test.txt:o
+ ./bash_test/grep_test.txt:o
++o
++o
+ ./bash_test/grep_test.txt:o
+ ./bash_test/grep_test.txt:o
+-./bash_test/grep_test.txt:o
+-./bash_test/grep_test.txt:o
+-./bash_test/grep_test.txt:o
+-./bash_test/grep_test.txt:o
+-./bash_test/grep_test.txt:o
+-./bash_test/grep_test.txt:o
+-./bash_test/grep_test.txt:o
+-./bash_test/grep_test.txt:o
++o

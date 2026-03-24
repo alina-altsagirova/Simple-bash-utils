@@ -1,0 +1,21 @@
+input_test_1
+string from
+input
+file
+
+
+
+
+sometext
+sometext
+sometext
+
+sometext
+sometext
+sometext
+eeee \n eeeeinput_test_2
+string from
+input
+file
+
+eeee \n eeee
