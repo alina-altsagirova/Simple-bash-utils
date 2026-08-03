@@ -24,7 +24,7 @@ Bonus features: Extended support for -h (suppress filenames), -s (suppress error
 
 ### Technical Specifications
 
-Code Quality: Developed according to the Google C++ Style Guide.
+Code Quality: Developed according to the Google C++ Style Guide. 
 Portability: Compliant with the POSIX.1-2017 standard; avoids legacy or obsolete functions.
 Build System: Managed via Makefile with dedicated targets for each utility (s21_cat, s21_grep).
 Architecture: Designed using structured programming principles with a focus on code reuse.
